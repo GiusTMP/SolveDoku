@@ -1,0 +1,18 @@
+{
+    "start" : "Inizio",
+    "settings" : "Impostazioni",
+    "exit" : "Esci",
+    "load" : "Carica",
+    "back" : "Indietro",
+    "solve" : "Risolvi",
+    "change" : "Cambia",
+    "lang" : "Lingua",
+    "mainMenu" : "Menu Principale",
+    "selectImg" : "Devi selezionare l'immagine di un sudoku!",
+    "adv" : "Consiglio",
+    "err" : "Errore",
+    "selectFile" : "Seleziona un'immagine",
+    "sudokuError" : "Impossibile risolvere il sudoku!",
+    "conf" : "Conferma",
+    "exitQuestion": "Sicuro di voler uscire?"
+}

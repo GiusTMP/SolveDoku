@@ -9,6 +9,7 @@ It will be sufficient to upload a photo of your Sudoku through the appropriate i
 
 * **Emanuele D'agostino** - [@Rurik-D](https://github.com/Rurik-D)
 * **Alessandro Buccioli** - [@elBuccio](https://github.com/elBuccio)
+* *Giuseppe Borracci** - [@GiusTMP](https://github.com/GiusTMP)
   
 ## How it works?
 

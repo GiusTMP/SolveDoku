@@ -5,6 +5,11 @@ Solving a Sudoku has never been easier thanks to *Solve*Doku!<br>
 *Solve*Doku, indeed, has been created as your personal Sudoku solver.<br>
 It will be sufficient to upload a photo of your Sudoku through the appropriate interface created for the program, and *Solve*Doku will take care of the rest, providing you with your Sudoku completely solved.
 
+## Authors
+
+* **Emanuele D'agostino** - [@Rurik-D](https://github.com/Rurik-D)
+* **Alessandro Buccioli** - [@elBuccio](https://github.com/elBuccio)
+  
 ## How it works?
 
 *Solve*Doku is structured in the following main steps:
